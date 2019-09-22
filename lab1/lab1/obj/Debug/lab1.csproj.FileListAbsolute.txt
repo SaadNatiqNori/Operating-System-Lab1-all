@@ -1,0 +1,9 @@
+C:\Users\kanilan\Desktop\C# example\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\kanilan\Desktop\C# example\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\kanilan\Desktop\C# example\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\kanilan\Desktop\C# example\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\kanilan\Desktop\C# example\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\kanilan\Desktop\C# example\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\kanilan\Desktop\C# example\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.Cache
+C:\Users\kanilan\Desktop\C# example\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\kanilan\Desktop\C# example\lab1\lab1\obj\Debug\lab1.pdb

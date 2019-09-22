@@ -1,0 +1,6 @@
+C:\Users\kanilan\Desktop\C# example\lab1 os saad18_!0\lab1 os saad18_!0\bin\Debug\lab1 os saad18_!0.exe.config
+C:\Users\kanilan\Desktop\C# example\lab1 os saad18_!0\lab1 os saad18_!0\bin\Debug\lab1 os saad18_!0.exe
+C:\Users\kanilan\Desktop\C# example\lab1 os saad18_!0\lab1 os saad18_!0\bin\Debug\lab1 os saad18_!0.pdb
+C:\Users\kanilan\Desktop\C# example\lab1 os saad18_!0\lab1 os saad18_!0\obj\Debug\lab1 os saad18_!0.csprojResolveAssemblyReference.cache
+C:\Users\kanilan\Desktop\C# example\lab1 os saad18_!0\lab1 os saad18_!0\obj\Debug\lab1 os saad18_!0.exe
+C:\Users\kanilan\Desktop\C# example\lab1 os saad18_!0\lab1 os saad18_!0\obj\Debug\lab1 os saad18_!0.pdb
